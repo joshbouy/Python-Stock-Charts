@@ -1,5 +1,7 @@
 # Python-Stock-Charts
 
+![example.png](example.png)
+
 To use:
 
 1. extract files to directory
@@ -8,4 +10,3 @@ To use:
 3. run
 > streamlit run myapp.py
 
-![example.png](example.png)
