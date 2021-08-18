@@ -7,3 +7,5 @@ To use:
 > pip install -r requirements.txt
 3. run
 > streamlit run myapp.py
+
+![example.png](example.png)
